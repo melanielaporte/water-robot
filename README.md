@@ -1,7 +1,6 @@
-# Best Widget Ever also known as: BWE
-Best Widget Ever, a product development template.  
-Idea for a template for documentation to help beginners when developing a project / product.
-
+# Water Robot
+An AI powered robot which learns over time to attract viewers with cymatics or vibratory patterns
+ 
 ## Project plan for BWE
 
 Folders: 
