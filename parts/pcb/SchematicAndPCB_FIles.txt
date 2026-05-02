@@ -1,0 +1,12 @@
+# Schematic and PCB files for Best Widget Ever also known as: BWE
+
+## Every version sold is fully documented
+
+###Schematic(s) for all versions
+### PCB(s) for all versions. 
+
+
+Generated files:
+- Gerbers
+- Fabrication drawings
+- Logo files

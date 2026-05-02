@@ -1,0 +1,19 @@
+# Business Formed around Best Widget Ever also known as: BWE
+
+## Get legal advice
+### Follow legal advice
+
+Some business formation todo:
+- Decide on form of business (Corporation, S Corporation, partnership, sole proprietor)
+- Business name. Research for uniqueness. Use the Secretary of State.
+- Obtain all required licenses: state and local
+- Tax identification numbers: federal, state, local
+- Employee policies
+- Shareholder agreements
+- Intellectual property policy
+- Document retention policy and procedures
+- Choose adcount and determin accounting system (cash versus accrual basis). What automation system?
+- Open bank acount(s), Corporate authorization for records ect.... Establish purchaseing authority, Check writing authority etc... Merchant service system for accepting payment?
+- Other
+
+

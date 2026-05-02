@@ -1,0 +1,18 @@
+# Best Widget Ever also known as: BWE
+
+## Product Functional specification for BWE
+Reference: https://doyouevenerp.com/functional-vs-technical-specifications/
+
+Feature list:
+- Winks and LED to assure users of normal opperation
+- Cures all desease
+- Makes clean energy
+- Restores the environment and climate
+- Brings back interesting extinct species and tests them for safty
+- Time travles to the library of Alexeandera and copies contents with out changing the past
+- Proves that eggs came before chickens
+
+
+
+
+

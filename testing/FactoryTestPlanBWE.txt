@@ -1,0 +1,13 @@
+# Factory Test Plan for Best Widget Ever also known as: BWE
+
+## Tests on each unit to ensure each item meets customer requirements.
+
+### Test during build of parts and subassemblies
+### Test of final instrument
+
+
+Test Plans:
+- Test the purchased part
+- Test the sub assembly 1
+- Test the sub assembly 1
+- Test final assembly 

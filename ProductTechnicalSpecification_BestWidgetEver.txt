@@ -1,0 +1,17 @@
+# Best Widget Ever also known as: BWE
+
+## Product Technical specification for BWE. How we are going to develop.
+Reference: https://doyouevenerp.com/functional-vs-technical-specifications/
+
+BWE Technology List:
+- Use git for version control
+- Coding standard: Barr Group.....
+- Internal server for master git repository 
+- Schematic Capture and PCB design on napkins or KiCad.
+- Use ESP32 to make the world's first wireless turbo entabulator
+- Use stone knives and bear skins as necessary
+
+
+
+
+

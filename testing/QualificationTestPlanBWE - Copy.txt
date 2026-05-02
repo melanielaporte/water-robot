@@ -1,0 +1,13 @@
+# Qualification Test Plan for Best Widget Ever also known as: BWE
+
+## Non reoccouring Engineering tests on engineering prototypes to ensure product is manufacture to the product and customer requirements.
+
+### Engineering tests on engineering prototypes to ensure product is manufacture to the product and customer requirements.
+### Third party tests such as for safety EMC.
+### Engineering tests on first production unit(s) aka "first article" to ensure product is manufacture to the product and customer requirements.
+### Third party tests such as for safety EMC.
+
+Test Plans:
+- Safety requirements such as UL
+- EMC requirements such as FCC part 15
+- Other requirements. Color, form fit function.

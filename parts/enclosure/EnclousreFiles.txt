@@ -1,0 +1,7 @@
+# Enclosure drawing files for Best Widget Ever also known as: BWE
+
+## CAD and CAM files
+
+Generated files:
+- STL
+- Other
